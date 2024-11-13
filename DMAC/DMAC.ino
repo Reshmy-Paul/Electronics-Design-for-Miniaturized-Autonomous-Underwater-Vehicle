@@ -151,3 +151,4 @@ if (indx % 10 == 0)
   //Write to UART here!!!
   //Serial.end();
 }
+//trying GitBash trial
